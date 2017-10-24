@@ -1,4 +1,5 @@
 # Intro.
+ooo
 
 SoftPOSIT is an algorithm propose by David etc. <sup>[1](#myfootnote1)</sup>
 a model based camera algorithm for determining the pose (position and orientation) of a 3D object from a single 2D image when correspondences between object points and image points are not known. This algorithm integrates the Softassign technique for computing correspondences and the POSIT technique for computing object pose. The method finds the rotation and translation parameters of the camera with respect to an object.
